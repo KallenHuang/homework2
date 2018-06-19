@@ -24,3 +24,4 @@ print(list1[1:4]) #不包含4
 list1=[int(input("輸入數字：")) for x in range (5)]
 print(max(list1))
 
+# change
