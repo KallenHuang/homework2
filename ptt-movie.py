@@ -124,6 +124,7 @@ else:
     n1=int(input("從第幾頁開始搜尋："))
 n2=n1-rr
 
+
 #listfound=str(search(n1,n2))
 #print(search(n1,n2))
 
